@@ -21,7 +21,7 @@ public class MainItmoJava {
         double number=10500;
         double result3=(double)(number/10)/10;
         System.out.println(result3);
-
+        //Новое
         //Блок4
         double result4=3.6*4.1*5.9d;
         System.out.println(result4);
